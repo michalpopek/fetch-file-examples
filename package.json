@@ -1,6 +1,6 @@
 {
   "name": "fetch-file-examples",
-  "version": "1.0.1-5",
+  "version": "1.0.1",
   "description": "Fetches all files from https://files-examples.com/",
   "author": "Michał Popek <michal@popek.co>",
   "license": "MIT",
